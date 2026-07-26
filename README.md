@@ -24,3 +24,12 @@ URL: http://127.0.0.1:5000/parse_resume (127.0.0.1 in Bing)
 
 Body: form‑data → Key = resume, Type = File, Value = resume.pdf
 
+## Features
+- Upload resume in PDF format
+- Extract Name, Education, Skills, Experience
+- JSON output for easy integration
+
+## Future Improvements
+- Add web UI for resume upload
+- Store parsed data in database
+- Support for multiple languages
